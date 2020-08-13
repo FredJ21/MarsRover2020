@@ -1,6 +1,5 @@
 # MarsRover2020
-Mars Rover 2020 - Perseverance
-Conception & Réalisation Robotique
+Mars Rover 2020 - Perseverance - Conception & Réalisation Robotique
 
 Reproduction du Rover Mars 2020 « Perseverance » par Frederic JELMONI
 
