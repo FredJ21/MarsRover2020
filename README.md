@@ -3,7 +3,7 @@ Mars Rover 2020 - Perseverance - Conception & Réalisation Robotique
 
 Reproduction du Rover Mars 2020 « Perseverance » (by FredJ21)
 
-# [--->> Mars Rover 2020 WiKi <<---](https://github.com/FredJ21/MarsRover2020/wiki) 
+# [Go to Mars Rover 2020 WiKi](https://github.com/FredJ21/MarsRover2020/wiki) 
 
 ![Fred s Rover](https://raw.githubusercontent.com/FredJ21/MarsRover2020/master/Divers/MarsRover2020.gif)
 
