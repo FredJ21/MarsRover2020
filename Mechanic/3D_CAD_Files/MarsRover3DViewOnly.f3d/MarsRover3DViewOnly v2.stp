@@ -12,11 +12,11 @@ FILE_NAME(
 /* name */ 
 'D:/FUSION360_Export/Hub Fred j21/Project Fred/Fred/Mars Rover 2020/Ma
 rsRover3DViewOnly.f3d/MarsRover3DViewOnly v2.stp',
-/* time_stamp */ '2020-12-05T17:57:03+01:00',
+/* time_stamp */ '2020-12-11T16:14:58+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
-/* originating_system */ 'Autodesk Translation Framework v9.3.0.1241',
+/* originating_system */ 'Autodesk Translation Framework v9.7.1.1290',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -25,7 +25,7 @@ ENDSEC;
 DATA;
 #10=MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION('',(),#30);
 #11=DERIVED_UNIT_ELEMENT(#13,1.);
-#12=DERIVED_UNIT_ELEMENT(#32,3.);
+#12=DERIVED_UNIT_ELEMENT(#32,-3.);
 #13=(
 MASS_UNIT()
 NAMED_UNIT(*)
@@ -89,17 +89,17 @@ SOLID_ANGLE_UNIT()
 #36=PRODUCT_DEFINITION_SHAPE('',$,#39);
 #37=SHAPE_REPRESENTATION('',(#23),#29);
 #38=PRODUCT_DEFINITION_CONTEXT('part definition',#43,'design');
-#39=PRODUCT_DEFINITION('MarsRover3DViewOnly','MarsRover3DViewOnly v2',#40,
-#38);
+#39=PRODUCT_DEFINITION('MarsRover_3DViewOnly','MarsRover_3DViewOnly v2',
+#40,#38);
 #40=PRODUCT_DEFINITION_FORMATION('',$,#45);
-#41=PRODUCT_RELATED_PRODUCT_CATEGORY('MarsRover3DViewOnly v2',
-'MarsRover3DViewOnly v2',(#45));
+#41=PRODUCT_RELATED_PRODUCT_CATEGORY('MarsRover_3DViewOnly v2',
+'MarsRover_3DViewOnly v2',(#45));
 #42=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#43);
 #43=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #44=PRODUCT_CONTEXT('part definition',#43,'mechanical');
-#45=PRODUCT('MarsRover3DViewOnly','MarsRover3DViewOnly v2',$,(#44));
+#45=PRODUCT('MarsRover_3DViewOnly','MarsRover_3DViewOnly v2',$,(#44));
 #46=PRESENTATION_STYLE_ASSIGNMENT((#47));
 #47=SURFACE_STYLE_USAGE(.BOTH.,#48);
 #48=SURFACE_SIDE_STYLE('',(#49));
